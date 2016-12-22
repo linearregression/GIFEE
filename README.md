@@ -22,6 +22,10 @@ GIFEE projects will likely be hosted at [gifee.cloud](http://gifee.cloud)
 
 Yes all GIFEE projects will be open source
 
+## Can we contribute?
+
+Yes. Whether it be reference architectures, docs, images, whatever. Please join in on the fun.
+
 ## Community
 
 GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Ask [@chuhnk](https://twitter.com/chuhnk) for an invite.
