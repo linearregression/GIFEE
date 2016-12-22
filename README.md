@@ -1,4 +1,4 @@
-![GIFEE](title.png)
+![GIFEE](images/title.png)
 
 **GIFEE** is "Google's infrastructure for everyone else"
 
