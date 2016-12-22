@@ -4,7 +4,7 @@
 
 ## What does it mean?
 
-Who knows really. Google things for everyone.
+Who knows really. Google things for everyone?
 
 ## What is github.com/GIFEE?
 
