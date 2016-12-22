@@ -10,6 +10,18 @@ Who knows really. Google things for everyone?
 
 This project is a place to experiment with ideas based on Google's infrastructure and for reference architectures. It's not to be taken seriously and in fact we encourage people to try build their own versions of Google's infrastructure too. If you would like to get involved or host something here just ask.
 
+## What will be built?
+
+GIFEE will initially be composed of some Google's early foundational systems such as GFS, Chubby and BigTable.
+
+## Will it be hosted?
+
+GIFEE projects will likely be hosted at [gifee.cloud](http://gifee.cloud)
+
+## Will it be Open Source?
+
+Yes all GIFEE projects will be open source
+
 ## Community
 
 GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Ask [@chuhnk](https://twitter.com/chuhnk) for an invite.
