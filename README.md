@@ -6,7 +6,7 @@
 
 Who knows really. Google things for everyone?
 
-## What is github.com/GIFEE?
+## What is GitHub/GIFEE?
 
 This project is a place to experiment with ideas based on Google's infrastructure and for reference architectures. It's not to be taken seriously and in fact we encourage people to try build their own versions of Google's infrastructure too. If you would like to get involved or host something here just ask.
 
