@@ -30,6 +30,8 @@ Yes. Whether it be reference architectures, docs, images, whatever. Please join 
 
 GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Ask [@chuhnk](https://twitter.com/chuhnk) for an invite.
 
+Follow on twitter at [@gifeecloud](https://twitter.com/gifeecloud)
+
 ## Papers
 
 Here's some papers to read. We'll be basing our tech off these starting with 2006 technologies.
