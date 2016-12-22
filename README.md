@@ -28,7 +28,7 @@ Yes. Whether it be reference architectures, docs, images, whatever. Please join 
 
 ## Community
 
-GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Ask [@chuhnk](https://twitter.com/chuhnk) for an invite.
+GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Invite yourself at [slack.gifee.cloud](http://slack.gifee.cloud)
 
 Follow on twitter at [@gifeecloud](https://twitter.com/gifeecloud)
 
