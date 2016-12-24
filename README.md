@@ -12,7 +12,7 @@ GitHub/GIFEE is a place to experiment with ideas based on Google's infrastructur
 
 ## What will be built?
 
-GIFEE will initially be composed of some Google's early foundational systems such as GFS, Chubby and BigTable.
+GIFEE will initially be composed of some of Google's early foundational systems such as GFS, Chubby and BigTable.
 
 ## Will it be hosted?
 
