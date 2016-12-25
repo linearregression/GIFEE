@@ -48,3 +48,26 @@ More papers
 - [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36971.pdf)
 - [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 - [Maglev: A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
+
+## Projects
+
+Here's a list of existing projects based on or related to GIFEE
+
+### Borg
+- [Kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management
+- [Nomad](https://github.com/hashicorp/nomad) A Distributed, Highly Available, Datacenter-Aware Scheduler
+- [Mesos](https://github.com/apache/mesos) A distributed systems kernel
+
+### BigTable
+- [HBase](https://github.com/apache/hbase) A distributed, scalable, big data store
+
+### Chubby
+- [Zookeeper](https://github.com/apache/zookeeper) Highly reliable distributed coordination
+- [Etcd](https://github.com/coreos/etcd) Distributed reliable key-value store
+
+### GFS
+- [Torus](https://github.com/coreos/torus) Torus Distributed Storage
+- [HDFS](https://github.com/apache/hadoop-hdfs) A distributed Java-based file system
+
+### Spanner
+- [CockroachDB](https://github.com/cockroachdb/cockroach) A Scalable, Survivable, Strongly-Consistent SQL Database
